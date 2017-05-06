@@ -4,7 +4,7 @@ A Minecraft remade in Unity3D
 
 ## Screenshot
 
-![](screenshot.png)
+![](screenshot.jpg)
 
 
 ## Download
@@ -12,7 +12,7 @@ A Minecraft remade in Unity3D
 Download the [gamepack](http://jarvisniu.oss-cn-shanghai.aliyuncs.com/soft/MyTown.zip)
 
 
-## Features Implements
+## Features Implemented
 
 - Move the player by `W`, `A`, `S`, `D`, `Space`, `Shift`;
 - Place and remove blocks;
